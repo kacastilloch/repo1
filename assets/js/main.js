@@ -1,5 +1,6 @@
 let a = 5, b = 10;
 let c = a + b;
+let x = 0;
 
 console.log("resultado", c);
 
